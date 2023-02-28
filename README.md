@@ -7,7 +7,7 @@
 <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WHU-ZQH&show_icons=true&theme=github_dark" /> <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WHU-ZQH&theme=github_dark" />
 
 ### ABOUT ME
-- 👨‍🎓 I'm Qihuang Zhong, a phD student of Wuhan University, China.
+- 👨‍🎓 I'm Qihuang Zhong, a phD student at Wuhan University, China.
 - 🧑‍💻 My research interests lie in natural language processing, such as discriminative language model pretraining, model adaptation, aspect-based sentiment analysis and etc.
 - 🤔 More recently, I mainly focus on chain-of-thought and large language model.
 - 👉 [Google Scholar](https://scholar.google.com.hk/citations?user=YCL8gkYAAAAJ&hl=zh-CN)
