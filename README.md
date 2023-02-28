@@ -8,7 +8,7 @@
 
 ### ABOUT ME
 - 👨‍🎓 I'm Qihuang Zhong, a phD student at Wuhan University, China.
-- 🧑‍💻 My research interests lie in natural language processing, such as discriminative language model pretraining, model adaptation, aspect-based sentiment analysis and etc.
+- 🧑‍💻 My research interests lie in the deep learning for NLP, such as discriminative language model pretraining, model adaptation, aspect-based sentiment analysis and etc.
 - 🤔 More recently, I mainly focus on chain-of-thought and large language model.
 - 👉 [Google Scholar](https://scholar.google.com.hk/citations?user=YCL8gkYAAAAJ&hl=zh-CN)
 
